@@ -1,0 +1,10 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+python-dotenv==1.0.0
+pypdf==3.17.1
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
+numpy
+torch
+requests
+ollama
